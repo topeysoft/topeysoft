@@ -2,11 +2,11 @@
 
 **Senior full-stack engineer. I build whole products, from the cloud down to the circuit board.**
 
-- At **Toradex** I build [Torizon Cloud](https://www.torizon.io/), the platform 8,000+ people use to update and monitor hundreds of thousands of embedded devices. Vue 3, TypeScript, Node.js, Keycloak.
+- At **Toradex** I'm a full-stack engineer on the team behind [Torizon Cloud](https://www.torizon.io/), the platform 8,000+ people use to update and monitor hundreds of thousands of embedded devices. Vue 3, TypeScript, Node.js, Keycloak.
 - I founded **[Elyir](https://elyir.com)**, home devices that tell you what they need in plain words. Its two products are open source and below.
 - On my own I designed, built and launched **[Stedda](https://stedda.com)**, an AI website builder with paying customers.
 
-Open to senior full-stack roles, remote in the US · **[temiadeyeri.com](https://temiadeyeri.com)** · [LinkedIn](https://www.linkedin.com/in/temi-adeyeri) · [temi.adeyeri@gmail.com](mailto:temi.adeyeri@gmail.com)
+**[temiadeyeri.com](https://temiadeyeri.com)** · [LinkedIn](https://www.linkedin.com/in/temi-adeyeri) · [temi.adeyeri@gmail.com](mailto:temi.adeyeri@gmail.com)
 
 <br>
 
